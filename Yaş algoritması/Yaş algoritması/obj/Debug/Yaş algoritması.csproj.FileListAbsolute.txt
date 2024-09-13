@@ -1,0 +1,11 @@
+D:\vs projeler\Yaş algoritması\Yaş algoritması\bin\Debug\Yaş algoritması.exe.config
+D:\vs projeler\Yaş algoritması\Yaş algoritması\bin\Debug\Yaş algoritması.exe
+D:\vs projeler\Yaş algoritması\Yaş algoritması\bin\Debug\Yaş algoritması.pdb
+D:\vs projeler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.csproj.AssemblyReference.cache
+D:\vs projeler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.csproj.CoreCompileInputs.cache
+D:\vs projeler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.exe
+D:\vs projeler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.pdb
+D:\vs yaptığım ödevler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.csproj.AssemblyReference.cache
+D:\vs yaptığım ödevler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.csproj.CoreCompileInputs.cache
+D:\vs yaptığım ödevler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.exe
+D:\vs yaptığım ödevler\Yaş algoritması\Yaş algoritması\obj\Debug\Yaş algoritması.pdb
